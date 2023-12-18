@@ -1,0 +1,12 @@
+
+a scored 0 out of 9
+b scored 1 out of 9
+c scored 2 out of 9
+d scored 3 out of 9
+e scored 4 out of 9
+f scored 5 out of 9
+g scored 6 out of 9
+h scored 7 out of 9
+i scored 8 out of 9
+j scored 9 out of 9
+p scored 2 out of 9

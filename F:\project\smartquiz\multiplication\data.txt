@@ -1,0 +1,10 @@
+
+Z scored 0 out of 5 and took 13.703888177871704 seconds for whole game
+a scored 1 out of 5 and took 13.703888177871704 seconds for whole game
+b scored 2 out of 5 and took 10.433706998825073 seconds for whole game
+c scored 3 out of 5 and took 13.703888177871704 seconds for whole game
+d scored 4 out of 5 and took 10.433706998825073 seconds for whole game
+e scored 5 out of 5 and took 13.703888177871704 seconds for whole game
+f scored 4 out of 5 and took 10.433706998825073 seconds for whole game
+p scored 5 out of 5 and took 8.95154881477356 seconds for whole game
+1 scored 3 out of 5 and took 14.331412076950073 seconds for whole game
